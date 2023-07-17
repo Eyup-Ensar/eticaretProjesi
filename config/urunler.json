@@ -1,0 +1,59 @@
+[
+{
+"ana_kat_id":1,
+"cocuk_kat_id":2,
+"katid":6,
+"*urunad":"Xml içlik",
+"*res1":"icerires1.png",
+"*res2":"icerires2.png",
+"*res3":"icerires3.png",
+"durum":0,
+"*aciklama":"Xml ürün 1 açıklamasıdı",
+"*kumas":"Keten",
+"*urtYeri":"Zambiya",
+"*renk":"beyaz",
+"fiyat":"10.90",
+"stok":"250",
+"*ozellik":"gayet ferah ekstra bilgi 1",
+"*ekstraBilgi":"ekstra bilgi 1"
+},
+
+{
+"ana_kat_id":3,
+"cocuk_kat_id":8,
+"katid":21,
+"*urunad":"Xml oyuncak araba",
+"*res1":"icerires4.png",
+"*res2":"icerires5.png",
+"*res3":"icerires6.png",
+"durum":0,
+"*aciklama":"Xml ürün 2 açıklamasıdı",
+"*kumas":"Keten",
+"*urtYeri":"Zambiya",
+"*renk":"beyaz",
+"fiyat":"5.90",
+"stok":"1250",
+"*ozellik":"uzaktan kumandalı ekstra bilgi 2",
+"*ekstraBilgi":"ekstra bilgi 2"
+},
+
+{
+"ana_kat_id":2,
+"cocuk_kat_id":5,
+"katid":13,
+"*urunad":"Xml timsah derisi",
+"*res1":"icerires7.png",
+"*res2":"icerires8.png",
+"*res3":"icerires9.png",
+"durum":0,
+"*aciklama":"Xml ürün 3 açıklamasıdı",
+"*kumas":"timsah",
+"*urtYeri":"Kamboçya",
+"*renk":"kahverengi",
+"fiyat":"88.90",
+"stok":"10",
+"*ozellik":"timsah derisi çanta ekstra bilgi 3",
+"*ekstraBilgi":"ekstra bilgi 3"
+}
+
+]
